@@ -26,7 +26,7 @@ This analysis aims to provide a comprehensive overview of the superstore's sales
 
   ## Data Sourcing
 
-   Data was gotten from Kaggle. [Click here](https://www.kaggle.com/datasets/shilongzhuang/things-we-do-for-family-some-bald-guy)
+   Data was gotten from Kaggle. [Click here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 This data includes various metrics such as total sales, average sales per transaction, number of transactions, discounts given, quantities sold, and profit margins. Additionally, sales data by state, segment, product category, and shipping class were analyzed
 
 ## Data Transformation
