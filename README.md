@@ -10,7 +10,8 @@
 - [Report and Insights](#report-and-insights)
 - [Recommendations](#recommendations)
 
-![family-parent use](https://github.com/Hassanat36/Maven_powerbi_project/assets/138366531/90df790f-40ae-42f1-9302-b472ed38b941)
+![shopping picture](https://github.com/user-attachments/assets/df2a0941-9064-4a3b-aed7-6a615118ca90)
+
 
 ## Introduction
 
@@ -40,6 +41,9 @@ The raw data was processed and transformed into visual representations to facili
 - Analytical Tools: Utilized for extracting insights and identifying trends
 
    ## Report and insights
+
+  ![Picture2](https://github.com/user-attachments/assets/1ee860c1-434a-42b0-94d5-90b4b3f32c78)
+
 ### 1. Overall Performance:
 
 #### 1.  Total Sales:
